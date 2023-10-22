@@ -1,0 +1,1 @@
+const mivariable = "Hola mundo";
